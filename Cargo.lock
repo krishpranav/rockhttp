@@ -456,7 +456,7 @@ dependencies = [
 [[package]]
 name = "rockhttp_lib"
 version = "0.1.0"
-source = "git+https://github.com/krishpranav/rockhttp_lib#0f427366bde5f34b242d799f893eede8925c0b54"
+source = "git+https://github.com/krishpranav/rockhttp_lib#dfe28d037b03cb828bc22b83017b314561694ce3"
 dependencies = [
  "base64",
  "native-tls",
